@@ -1,0 +1,16 @@
+body{
+background-color: #042940;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 20px;
+}
+h1{
+    color: #DBF227;
+    background-color: #005C53;
+}
+h2{
+    color: #DBF227;
+}
+p{
+    text-align: justify;
+    color: #D6D58E;
+}
